@@ -1,0 +1,9 @@
+D:\SMSapplication\SMSapplication\bin\Debug\SMSapplication.exe
+D:\SMSapplication\SMSapplication\bin\Debug\SMSapplication.pdb
+D:\SMSapplication\SMSapplication\obj\Debug\ResolveAssemblyReference.cache
+D:\SMSapplication\SMSapplication\obj\Debug\SMSapplication.SMSapplication.resources
+D:\SMSapplication\SMSapplication\obj\Debug\SMSapplication.Properties.Resources.resources
+D:\SMSapplication\SMSapplication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SMSapplication\SMSapplication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SMSapplication\SMSapplication\obj\Debug\SMSapplication.exe
+D:\SMSapplication\SMSapplication\obj\Debug\SMSapplication.pdb
